@@ -15,7 +15,7 @@ Our data-driven approach focuses on the following key insights uncovered by [The
 - Pricing Strategy
 - Growth Potential
 
-For more details, refer to our [project summary](full_project.md).
+For the full project, check out [project](full_project.md).
 
 
 ## SQL and R Analysis
