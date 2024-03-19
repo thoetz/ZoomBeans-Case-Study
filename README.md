@@ -30,7 +30,3 @@ To run the SQL and R analysis on your own machine, you'll need to:
 2. Ensure you have SQL and R environments set up.
 3. Place the `coffee_survey.csv` data file in the appropriate directory.
 4. Run the provided SQL scripts and R scripts.
-
-## Contributing
-
-We welcome contributions to analysis. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
