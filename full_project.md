@@ -194,3 +194,11 @@ favorite_drinks_plot <- ggplot(coffee_survey, aes(x = `What is your favorite cof
 print(paste("Average Daily Coffee Consumption:", average_daily_consumption))
 print(favorite_drinks_plot)
 ```
+![Roast Preference](Roast%20Preference.png)
+
+![Strength Preference](Strength%20Preference.png)
+
+![Taste Preference](Taste%20Preference.png)
+
+![Favourite Drinks](Favourite%20Drinks.png)
+
