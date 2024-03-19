@@ -1,4 +1,3 @@
-```markdown
 # Zoombeans
 
 ## Analyzing Consumer Preferences from the Great American Coffee Taste Test
@@ -194,6 +193,4 @@ favorite_drinks_plot <- ggplot(coffee_survey, aes(x = `What is your favorite cof
 # Print the average and the plot
 print(paste("Average Daily Coffee Consumption:", average_daily_consumption))
 print(favorite_drinks_plot)
-```
-
 ```
