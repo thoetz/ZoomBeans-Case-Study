@@ -1,4 +1,3 @@
-```markdown
 # Zoombeans: Coffee Taste Analysis
 
 ## Overview
